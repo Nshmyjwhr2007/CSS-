@@ -1,0 +1,47 @@
+.media {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: flex-start; }
+
+.media-body {
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1; }
+
+
+/* style.css | file:///D:/Intro-To-HTMI/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20%D8%A7%D9%84%D9%85%D8%AD%D8%B3%D9%86/contact-form-04/css/style.css */
+
+body {
+  /* background: #fafafa; */
+  /* color: #666666; */
+  background: #353535;
+  color: #fff;
+}
+
+.info-wrap h3 {
+  /* color: #000; */
+  color: #fff;
+}
+
+.info-wrap .dbox .icon {
+  /* border: 1px solid rgba(0, 0, 0, 0.05); */
+  border: 1px solid rgb(255, 255, 255);
+}
+
+.info-wrap .dbox p span {
+  /* color: #000; */
+  color: #757575;
+}
+
+.info-wrap .dbox p a {
+  /* color: rgba(0, 0, 0, 0.3); */
+  color: rgb(255, 255, 255);
+}
+
+.heading-section {
+  /* color: #000; */
+  color: #fff;
+}
